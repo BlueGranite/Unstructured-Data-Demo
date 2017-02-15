@@ -6,6 +6,7 @@
 <h2 align="center">Predicting Vegetation Changes using Satellite Imagery and Machine Learning</h2>
 </head>
 
+Originally presented at the [Analytics for Social Good Event at The University of Cincinnati](http://business.uc.edu/academics/centers/analytics-center/events/analytics-for-social-good.html) by [Andy Lathrop](https://www.linkedin.com/in/alathrop/) and [Colby Ford](https://www.linkedin.com/in/colbyford/).
 
 
 Links
@@ -14,7 +15,7 @@ For information about installing and using Microsoft R, check out [MRAN](https:/
 
 For information about trying the capabilities of R Server for free, check out [Microsoft R Client](https://msdn.microsoft.com/en-us/microsoft-r/r-client-get-started).
  
-Visit [BlueGranite Hands on Labs](https://www.blue-granite.com/resources/topic/labs) for many other advanced analytics tutorials.
+Visit [BlueGranite Hands-On Labs](https://www.blue-granite.com/resources/topic/labs) for many other advanced analytics tutorials.
 
 
 
